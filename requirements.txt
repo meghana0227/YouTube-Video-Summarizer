@@ -2,3 +2,4 @@ yt_dlp
 torch
 transformers
 openai-whisper
+ffmpeg-python

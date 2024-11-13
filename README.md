@@ -1,3 +1,3 @@
 # YouTube-Video-Summarizer
 
-![image](https://github.com/user-attachments/assets/b84a667c-0dc8-4543-b18b-2734152ec4d2)
+![image](https://github.com/user-attachments/assets/3e4a8d6f-ee92-46c4-aa97-20ff5d5e9465)
